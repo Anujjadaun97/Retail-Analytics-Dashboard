@@ -77,6 +77,8 @@ Created the following additional features:
 * `profit_margin`
 
 ### Customer Analytics
+<img width="1283" height="721" alt="image" src="https://github.com/user-attachments/assets/dbb82b4b-bddd-4239-bb51-25287cc469a3" />
+
 
 Performed RFM (Recency, Frequency, Monetary) Segmentation.
 
@@ -98,6 +100,8 @@ Generated:
 ---
 
 ## 1️⃣ Executive Summary
+<img width="1258" height="715" alt="image" src="https://github.com/user-attachments/assets/6631758b-c67b-4091-b34b-3f25e88f9a66" />
+
 
 Provides a high-level overview of business performance.
 
@@ -119,6 +123,8 @@ Provides a high-level overview of business performance.
 ---
 
 ## 2️⃣ Sales & Profit Analysis
+<img width="1276" height="718" alt="image" src="https://github.com/user-attachments/assets/8581c5ad-f48a-4b19-9424-22bc8429e771" />
+
 
 Analyzes sales and profit trends over time.
 
@@ -136,6 +142,8 @@ High revenue does not always translate into high profit.
 ---
 
 ## 3️⃣ Product Performance Analysis
+<img width="1276" height="719" alt="image" src="https://github.com/user-attachments/assets/32d0ad5c-5d71-4021-8722-e7a7890efe17" />
+
 
 Evaluates category and sub-category performance.
 
@@ -162,6 +170,8 @@ Evaluates category and sub-category performance.
 ---
 
 ## 4️⃣ Regional Performance Analysis
+<img width="1274" height="714" alt="image" src="https://github.com/user-attachments/assets/c90bca99-3b29-4594-a475-0e61c5ad40a4" />
+
 
 Analyzes sales and profitability across regions and states.
 
